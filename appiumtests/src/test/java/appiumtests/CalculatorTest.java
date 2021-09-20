@@ -21,6 +21,7 @@ public class CalculatorTest {
 			System.out.println(e.getCause());
 			System.out.println(e.getMessage());
 			e.printStackTrace();
+			System.out.println("aaa");
 		}
 
 	}
